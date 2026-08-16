@@ -1,95 +1,135 @@
-<h1 align="center">Hi there, I'm Bobby 👋</h1>
+<div align="center">
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
 
-<h3 align="center">Front-End Developer | AI & Machine Learning Enthusiast | Aspiring Cloud & DevOps Engineer</h3>
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
 
-<p align="center">
-  🌱 Currently building my skills at <b>Intellipaat</b><br/>
-  💻 Passionate about Web Development, Generative AI, and Agentic AI systems<br/>
-  🚀 Learning to deploy and scale applications with Docker, AWS & Linux
-</p>
+<img src="party-furby.gif" align="right" width="60">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bobby404-k&label=Profile%20Views&color=0e75b6&style=flat" alt="bobby404-k" />
-</p>
+<br>
 
----
+![](under-construction.gif)
 
-### 🛠️ Tech Stack
+<br>
 
-**Front-End Development**
+![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif)
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flexbox-264DE4?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
+![](flames.gif)
 
-**Back-End Development**
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
-
-**Artificial Intelligence & Machine Learning**
-
-<p>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-4B8BBE?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic_AI-00A67E?style=for-the-badge&logo=robotframework&logoColor=white" />
-</p>
-
-**Database & Cloud**
-
-<p>
-  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-**DevOps & Deployment**
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software_Deployment-2ea44f?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
+<br>
+<br>
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bobby404-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobby404-k&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Bobby%20Kushwah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Dev%20%7C%20AI%2FML%20Explorer%20%7C%20Cloud%20%26%20DevOps%20Learner&descAlignY=55&descSize=16" width="100%"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bobby404-k&theme=tokyonight&hide_border=true" />
-</p>
+<a href="https://www.linkedin.com/in/bobby-kushwah-94a198398/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:bobbykushwah19082005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Discord-rabobby__19-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=bobby404-k&label=Profile+Views&color=00c6ff&style=for-the-badge" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bobby404-k&theme=tokyo-night&hide_border=true" />
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=Building+cool+things+with+code+%F0%9F%92%BB;Currently+leveling+up+at+Intellipaat+%F0%9F%9A%80;Exploring+Generative+%26+Agentic+AI+%F0%9F%A4%96;Turning+coffee+into+deployed+apps+%E2%98%95" />
 
-### 🤝 Connect with Me
+</div>
 
-<p align="left">
-  <a href="mailto:bobbykushwah19082005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/bobby-kushwah-94a198398/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Discord-rabobby_19-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</p>
+<br/>
 
----
+## ⚡ About Me
 
-<p align="center"><i>⭐️ From bobby404-k — Building at the intersection of Web Development and AI</i></p>
+```yaml
+role: Front-End Developer & AI/ML Enthusiast
+currently_learning: [Intellipaat - Full Stack + AI]
+focus: [Web Development, Generative AI, Agentic AI, Cloud Deployment]
+fun_fact: "I debug with console.log() and unshakable optimism 🐛✨"
+```
+
+<br/>
+
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+**Front-End**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&theme=dark" />
+
+**Back-End**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,flask&theme=dark" />
+
+**AI / ML / Data**
+<br/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-4B8BBE?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic_AI-00A67E?style=flat-square&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/DBMS-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,git&theme=dark" />
+<img src="https://img.shields.io/badge/Cloud_Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bobby404-k&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobby404-k&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bobby404-k&theme=radical&hide_border=true&background=0d1117" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bobby404-k&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophy Case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=bobby404-k&theme=radical&no-frame=true&row=1&column=7" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/bobby404-k/bobby404-k/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+> ℹ️ Requires a one-time GitHub Action setup (see notes below) for the snake to animate over your real contribution graph.
+
+<br/>
+
+<div align="center">
+
+### 💭 Random Dev Wisdom
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=120&section=footer"/>
+
+**Thanks for stopping by — let's build something awesome together 🚀**
+
+</div>
